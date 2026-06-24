@@ -22,4 +22,7 @@ I am **Nikhil N S**, an Artificial Intelligence and Data Science student passion
 - CSS3
 - Google Fonts (Inter)
 
-## 📂 Project Structure
+## 📂 Project 
+- Predicting Stock Prices Using time series analysis
+- Loan Approval Prediciton System
+- face attendence recognition system
